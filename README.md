@@ -1,1 +1,2 @@
 # classicdb
+- Dependency: Cartographer
